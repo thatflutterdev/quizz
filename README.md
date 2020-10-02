@@ -1,3 +1,3 @@
 # quizz
 
-A simple quiz app built with flutter. 
+A simple Quiz app built with Flutter.
