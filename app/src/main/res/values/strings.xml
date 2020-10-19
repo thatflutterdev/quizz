@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Common Friends</string>
+    <string name="share_something" translatable="false">Share Something!</string>
+    <string name="your_message" translatable="false">Your Message</string>
+    <string name="send" translatable="false">Send!</string>
+    <string name="attach" translatable="false">Attach</string>
+    <string name="reminder" translatable="false">Reminder</string>
+    <string name="anne_droid" translatable="false">Anne Droid</string>
+    <string name="hey_miguel_have_you_tried_the_new_course_about_common_intent_actions" translatable="false">Hey Miguel! Have you tried the
+        new course about Common Intent actions?
+    </string>
+    <string name="save_as_note" translatable="false">Save As Note</string>
+    <string name="birthday_march_21st" translatable="false">Birthday: March 21st</string>
+    <string name="address_182_n_union_ave_farmington_ut_84025" translatable="false">Address: 182 N. Union Ave, Farmington, UT 84025</string>
+    <string name="set_reminder" translatable="false">Set Reminder</string>
+    <string name="view_on_maps" translatable="false">View on Maps</string>
+    <string name="order_a_taxi" translatable="false">Order a Taxi</string>
+    <string name="hobbies_gardening" translatable="false">Hobbies: Gardening</string>
+    <string name="more_about_gardening" translatable="false">More About \'Gardening\'</string>
+    <string name="visit_website" translatable="false">Visit Website</string>
+    <string name="website_example_com" translatable="false">Website: example.com</string>
+    <string name="phone_123_456_890" translatable="false">Phone: (123) 456 890</string>
+    <string name="call" translatable="false">Call</string>
+    <string name="email_anne_example_com" translatable="false">Email: Anne@example.com</string>
+    <string name="email" translatable="false">Send Email</string>
+    <string name="export_contact" translatable="false">Export Contact</string>
+    <string name="artist" translatable="false">Favorite Artist: Beethoven</string>
+    <string name="listen" translatable="false">Play Music</string>
+    <string name="english">This is English Language</string>
+</resources>
